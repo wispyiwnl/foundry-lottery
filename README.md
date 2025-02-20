@@ -1,1 +1,1 @@
-This is a verifiable random lottery powered by smart contracts, developed while following Patrick Collins' Solidity course.
+Foundry Fundamentals - Cyfrin Updraft Course (Smart Contract Lottery)
